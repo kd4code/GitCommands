@@ -1,6 +1,6 @@
 package GitCommand;
 //Student Change in Local repository
-//Student Change from Remote Repository
+//Student 2nd Change from Remote Repository
 public class Student {
 	
 	int id;
