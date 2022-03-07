@@ -3,7 +3,7 @@ package GitCommand;
 public class Teacher {
   
   String name="Shyam"; 
-  public void setTeacher(String name)
+  public void setTeacher()
   {
     System.out.println("Teacher Method"+name); 
   }
